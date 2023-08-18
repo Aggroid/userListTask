@@ -13,11 +13,9 @@ This project is a setup for React working in Vite with HMR, ESLint rules, and fa
    First, you need to clone the repository to your machine. Open your terminal and run:
 
    ```bash
-   git clone [URL to your repository]
-   cd [Your Project Directory]
+   git clone https://github.com/Aggroid/userListTask
+   cd my-react-app
    ```
-
-   Replace `[URL to your repository]` with the actual URL to your repo and `[Your Project Directory]` with the name of your project folder.
 
 2. **Install Dependencies**
 
